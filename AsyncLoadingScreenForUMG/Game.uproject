@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.23",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Game",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"CoreUObject",
+				"Slate",
+				"SlateCore",
+				"UMG"
+			]
+		},
+		{
+			"Name": "LoadingScreen",
+			"Type": "ClientOnly",
+			"LoadingPhase": "PreLoadingScreen",
+			"AdditionalDependencies": [
+				"Slate",
+				"SlateCore"
+			]
+		}
+	]
+}
