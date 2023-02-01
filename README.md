@@ -1,4 +1,4 @@
-# AsyncLoadingScreenForUMG [![License](https://img.shields.io/github/license/Suuta/AsyncLoadingScreenForUMG.svg)](https://github.com/Suuta/AsyncLoadingScreenForUMG/blob/main/LICENSE.md)
+# AsyncLoadingScreenForUMG [![License](https://img.shields.io/github/license/Suuta/AsyncLoadingScreenForUMG.svg)](https://github.com/Suuta/AsyncLoadingScreenForUMG/blob/main/LICENCE.md)
 
 <img src="/images/icon.jpg?raw=true" alt="icon" title="icon"  />
 
